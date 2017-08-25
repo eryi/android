@@ -521,5 +521,10 @@
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
+  
+<!-- BEGIN MEDIATEK -->
+  <project path="device/mediatek/mt6582" name="eryi/android_device_mediatek_mt6582" revision="cm-13.0" />
+  <project path="vendor/mediatek/mt6582" name="eryi/android_vendor_mediatek_mt6582" revision="cm-13.0" />
+<!-- END MEDIATEK -->
 
 </manifest>
