@@ -523,8 +523,8 @@
 <!-- END AOSP -->
   
 <!-- BEGIN MEDIATEK -->
-  <project path="device/mediatek/mt6582" name="eryi/android_device_mediatek_mt6582" revision="cm-13.0" />
-  <project path="vendor/mediatek/mt6582" name="eryi/android_vendor_mediatek_mt6582" revision="cm-13.0" />
+  <project path="device/Xiaomi/HM2014011" name="ferhung-mtk/android_device_Xiaomi_HM2014011" revision="cm-13.0" />
+  <project path="vendor/Xiaomi/HM2014011" name="ferhung-mtk/android_vendor_Xiaomi_HM2014011" revision="cm-13.0" />
 <!-- END MEDIATEK -->
 
 </manifest>
